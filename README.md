@@ -38,7 +38,7 @@ java SimpleHttpServer
 ```
 
 
-### **2. Accessing the Server through your browser**
+### **3. Accessing the Server through your browser**
 just visit:
 http://localhost:8080/
 OR
