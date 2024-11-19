@@ -1,11 +1,11 @@
-# HTTP-server-implementation
+# HTTP implementation using Java
 A cool and simple HTTP Server implementation using pure Java
 
 https://github.com/user-attachments/assets/4bdf55c0-ed12-4f54-a0c1-c34ab0648a12
 
 ## Overview
 
-This project is a simple yet robust HTTP server implementation using Java to handle basic HTTP requests and serve predefined routes. The server supports multithreading, allowing it to handle multiple client connections simultaneously. It's an excellent project for understanding the basics of HTTP, server programming, and multithreading in Java.
+This project is a simple yet robust HTTP server using Java to handle basic HTTP requests and serve predefined routes. The server supports multithreading, allowing it to handle multiple client connections simultaneously. It's an excellent project for understanding the basics of HTTP, server programming, and multithreading in Java.
 
 ## Features
 
