@@ -28,7 +28,7 @@ This project is a simple yet robust HTTP server using Java to handle basic HTTP 
 
 ### **1. Clone the Repository**
 ```
-git clone https://github.com/<your-username>/SimpleHttpServer.git
+git clone https://github.com/ProgrammerPratik/HTTP-server-implementation.git
 cd SimpleHttpServer
 ```
 ### **2. Compile and run the Server**
